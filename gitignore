@@ -1,0 +1,12 @@
+# Candidate/generated EDA outputs
+results/
+reports/
+logs/
+objects/
+runs/
+work/
+
+# Tool/runtime scratch files
+*.log
+*.tmp
+.DS_Store
